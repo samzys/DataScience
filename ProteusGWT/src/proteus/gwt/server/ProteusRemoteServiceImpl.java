@@ -752,7 +752,7 @@ public class ProteusRemoteServiceImpl extends RemoteServiceServlet implements
 		// 0, 1);
 
 		StringBuilder sb = new StringBuilder();
-		String name = "samzyshan", pwd = "mimashan";
+		String name = "xxxxxxx", pwd = "yyyyyy";
 		sb.append(Constants.HEADER_MID + 227 + "\n");
 		sb.append(Constants.HEADER_UID + 7 + "\n");
 		try {
